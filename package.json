@@ -1,0 +1,26 @@
+{
+  "name": "jams-project",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "cross-env DEPLOY=github vite build",
+    "preview": "vite preview",
+    "publish-pwa": "gh-pages -t -d dist"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-next": "^0.17.0",
+    "vue": "^3.4.21",
+    "vue-pdf-embed": "^2.0.3",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "cross-env": "^7.0.3",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.2.8",
+    "vite-plugin-pwa": "^0.19.8"
+  }
+}

@@ -1,0 +1,200 @@
+{
+    "newsletters": [
+        {
+            "newsletter-key": 1,
+            "name": "Winter '24",
+            "progress": 25,
+            "saved": "True",
+            "imgLink": "winter-24-preview.jpg",
+            "pdfLink": "Winter '24.pdf"
+        },
+        { "newsletter-key": 2,
+            "name": "Summer '23",
+            "progress": 66,
+            "saved": "True",
+            "imgLink": "summer-23-preview.jpg",
+            "pdfLink": "Summer '23.pdf"
+
+        },
+        { "newsletter-key": 3,
+            "name": "Winter '23",
+            "progress": 40,
+            "saved": "True",
+            "imgLink": "winter-23-preview.jpg",
+            "pdfLink": "Winter '23.pdf"
+
+        },
+        { "newsletter-key": 4,
+            "name": "Summer '22",
+            "progress": 12,
+            "saved": "False",
+            "imgLink": "summer-22-preview.jpg",
+            "pdfLink": "Summer '22.pdf"
+
+        },
+        { "newsletter-key": 5,
+            "name": "Winter '22",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "winter-22-preview.jpg",
+            "pdfLink": "winter-22.pdf"
+
+        },
+        { "newsletter-key": 6,
+            "name": "Summer '21",
+            "progress": 100,
+            "saved": "False",
+            "imgLink": "summer-21-preview.jpg",
+            "pdfLink": "Summer '21.pdf"
+
+        },
+        {
+            "newsletter-key": 7,
+            "name": "Winter '21",
+            "progress": 5,
+            "saved": "False",
+            "imgLink": "winter-21-preview.png",
+            "pdfLink": "Winter '21.pdf"
+        },
+        {
+            "newsletter-key": 8,
+            "name": "Summer '20",
+            "progress": 10,
+            "saved": "False",
+            "imgLink": "summer-20-preview.png",
+            "pdfLink": "Summer '20.pdf"
+        },
+        {
+            "newsletter-key": 9,
+            "name": "Summer '19",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "summer-19-preview.png",
+            "pdfLink": "Summer '19.pdf"
+        },
+        {
+            "newsletter-key": 10,
+            "name": "Winter '19",
+            "progress": 70,
+            "saved": "False",
+            "imgLink": "winter-19-preview.png",
+            "pdfLink": "Winter '19.pdf"
+        },
+        {
+            "newsletter-key": 11,
+            "name": "Summer '18",
+            "progress": 12,
+            "saved": "False",
+            "imgLink": "summer-18-preview.png",
+            "pdfLink": "Summer '18.pdf"
+        },
+        {
+            "newsletter-key": 12,
+            "name": "Winter '18",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "winter-18-preview.png",
+            "pdfLink": "Winter '18.pdf"
+        },
+        {
+            "newsletter-key": 13,
+            "name": "Summer '17",
+            "progress": 21,
+            "saved": "False",
+            "imgLink": "summer-17-preview.png",
+            "pdfLink": "Summer '17.pdf"
+        },
+        {
+            "newsletter-key": 14,
+            "name": "Winter '17",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "winter-17-preview.png",
+            "pdfLink": "Winter '17.pdf"
+        }
+
+    ],
+    "programs": [
+        { "program-key": 1,
+            "name": "Chess",
+            "progress": 62,
+            "saved": "True",
+            "imgLink": "chess-preview.png",
+            "pdfLink": "Chess.pdf"
+
+        },
+        { "program-key": 2,
+            "name": "Spanish",
+            "progress": 25,
+            "saved": "True",
+            "imgLink": "spanish-preview.png",
+            "pdfLink": "Spanish.pdf"
+        },
+        {
+            "program-key": 3,
+            "name": "App-design",
+            "progress": 33,
+            "saved": "True",
+            "imgLink": "app-design-preview.png",
+            "pdfLink": "App-design.pdf"
+        },
+        {
+            "program-key": 4,
+            "name": "Art",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "art-preview.png",
+            "pdfLink": "Art.pdf"
+        },
+        {
+            "program-key": 5,
+            "name": "Film",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "film-preview.png",
+            "pdfLink": "Film.pdf"
+        },
+        {
+            "program-key": 6,
+            "name": "Meditation",
+            "progress": 100,
+            "saved": "False",
+            "imgLink": "meditation-preview.png",
+            "pdfLink": "Meditation.pdf"
+        },
+        {
+            "program-key": 7,
+            "name": "Poetry 25",
+            "progress": 23,
+            "saved": "False",
+            "imgLink": "poetry-25-preview.png",
+            "pdfLink": "Poetry Anthology Vol. 25.pdf"
+        },
+        {
+            "program-key": 8,
+            "name": "Poetry 26",
+            "progress": 99,
+            "saved": "False",
+            "imgLink": "poetry-26-preview.png",
+            "pdfLink": "Poetry Anthology Vol. 26.pdf"
+        },
+        {
+            "program-key": 9,
+            "name": "Poetry 27",
+            "progress": 0,
+            "saved": "False",
+            "imgLink": "poetry-27-preview.png",
+            "pdfLink": "Poetry Anthology Vol. 27.pdf"
+        },
+        {
+            "program-key": 10,
+            "name": "Poetry 28",
+            "progress": 100,
+            "saved": "False",
+            "imgLink": "poetry-28-preview.png",
+            "pdfLink": "Poetry Anthology Vol. 28.pdf"
+        }
+
+
+    ]
+}
